@@ -124,7 +124,7 @@
     "@testing-library/cypress": "8.0.7",
     "@testing-library/dom": "8.19.0",
     "@testing-library/jest-dom": "5.16.5",
-    "@testing-library/user-event": "13.5.0",
+    "@testing-library/user-event": "14.4.3",
     "@types/chai": "4.3.4",
     "@types/enzyme": "3.10.12",
     "@types/enzyme-adapter-react-16": "1.0.6",
