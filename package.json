@@ -128,7 +128,7 @@
     "@types/chai": "4.3.4",
     "@types/enzyme": "3.10.12",
     "@types/enzyme-adapter-react-16": "1.0.6",
-    "@types/eslint": "7.29.0",
+    "@types/eslint": "8.4.10",
     "@types/estree": "0.0.52",
     "@types/faker": "5.5.9",
     "@types/inquirer": "8.2.5",
